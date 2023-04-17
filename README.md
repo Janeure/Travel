@@ -1,2 +1,2 @@
 # Travel
-**https://janeure.github.io/Travel/**
+**https://kkamus.github.io/Travel/**
